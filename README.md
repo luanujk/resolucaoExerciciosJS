@@ -1,12 +1,12 @@
 # JavaScript exercises solved!
 
-Olá! Estes são meus exercicios de JavaScript resolvidos. Estes exercícios fazem parte de um curso da Udemy onde o objetivo é colocar em prática o que foi aprendido nos conceitos teóricos. Espero que goste!
+Hello! These are my solved JavaScript exercises. These exercises are part of a Udemy course where the objective is to put into practice what was learned in the theoretical concepts. I hope you like it!
 
 
 # Files
 
-Os exercícios estão separados em diferentes exercícios, sendo dos mais simples para os mais complexos (mas não estando exatamente nessa ordem)
+The exercises are separated into different exercises, from the simplest to the most complex (but not exactly in that order)
 
 ## Exercises
 
-Por se tratar de um curso não publico, eu não posso publicar os exercícios, apenas compartilhar as resoluções
+Since this is a non-public course, I cannot publish the exercises, only share the solutions.
